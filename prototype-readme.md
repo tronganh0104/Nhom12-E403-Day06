@@ -17,7 +17,7 @@ Vinschool Admissions Copilot là một AI chatbot tương tác thời gian thự
 - **Giám sát & Debug**: LangSmith.
 
 ## 5. Phân công công việc
-- **Trang**: Phát triển Backend API & Cấu hình LangGraph (ReAct Agent) để xử lý logic suy luận.
-- **Bằng Anh**: Xây dựng UI/UX Frontend (Next.js) & Tích hợp hiệu ứng Streaming messages mượt mà.
+- **Trang**: Xây dựng UI/UX Frontend (Next.js) & Tích hợp hiệu ứng Streaming messages mượt mà.
+- **Bằng Anh**: Phát triển Backend API & Cấu hình LangGraph (ReAct Agent) để xử lý logic suy luận.
 - **Trọng Anh**: Thu thập, cấu trúc hóa dữ liệu (học phí, quy chế, cơ sở) & Tối ưu hóa System Prompt cho LLM.
 - **Huyền**: Đảm bảo chất lượng (QA/Testing), tích hợp LangSmith tracking để giám sát token và viết tài liệu dự án.

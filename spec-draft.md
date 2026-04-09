@@ -61,9 +61,9 @@ Hệ thống học từ hành vi thực tế của người dùng, bao gồm vi�
 
 ## 4. Phân công
 
-- **Nguyễn Bằng Anh:** Xây dựng RAG pipeline (crawl dữ liệu, chunking, retrieval) và chuẩn bị knowledge base.  
-- **Bùi Trọng Anh:** Thiết kế conversation flow và phát triển chatbot logic (intent handling, prompting).  
-- **Nguyễn Thị Thanh Huyền:** Xây dựng cơ chế evaluation, logging hành vi người dùng và phân tích learning signals.  
-- **Đỗ Thị Thùy Trang:** Tích hợp hệ thống, xây dựng API/UI demo và triển khai prototype.  
+- **Trang:** Xây dựng UI/UX Frontend (Next.js) & Tích hợp hiệu ứng Streaming messages mượt mà.  
+- **Bằng Anh:** Phát triển Backend API & Cấu hình LangGraph (ReAct Agent) để xử lý logic suy luận.  
+- **Trọng Anh:** Thu thập, cấu trúc hóa dữ liệu (học phí, quy chế, cơ sở) & Tối ưu hóa System Prompt cho LLM.  
+- **Huyền:** Đảm bảo chất lượng (QA/Testing), tích hợp LangSmith tracking để giám sát token và viết tài liệu dự án.  
 
 > Tất cả thành viên cùng tham gia test, debug và tối ưu prompt/hệ thống.
